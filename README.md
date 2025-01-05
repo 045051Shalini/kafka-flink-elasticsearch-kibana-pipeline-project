@@ -1,4 +1,4 @@
-# Data Analysis of Shoes Sales and Customers Data
+# Data Analyses of Shoes Sales and Customers Data
 
 ## Dashboard
 
@@ -13,7 +13,7 @@
 
 ---
 
-## Chart Analysis
+## Chart Analyses
 
 ### 1. Word Cloud of Highly Rated Products
 
