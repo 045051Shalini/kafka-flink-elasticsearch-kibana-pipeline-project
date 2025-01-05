@@ -23,7 +23,7 @@
 ![Highly Rated Product Cloud](https://github.com/user-attachments/assets/0b0d4f37-0a38-49f5-9cdb-7611b66e9f8a)
 
 - **Observation**: "Pro Perf 814" and "Pro Sidekick 954" have the largest presence, indicating their popularity.
-- **Insight**: These two products are clear customer favorites due to their high ratings, likely driven by superior performance or features.
+- **Insight**: These two products are clear customer favorites due to their high ratings, likely driven by superior performance and features.
 - **Managerial Implication**: Increase production and marketing focus on these top-rated products to capitalize on customer demand and drive sales.
 
 ---
