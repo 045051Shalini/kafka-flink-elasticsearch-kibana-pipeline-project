@@ -1,4 +1,4 @@
-# Kafka-Flink-Elasticsearch-Kibana Pipeline Project
+# Data Analysis of Shoes Sales and Customers Data
 
 ## Dashboard Analysis and Insights
 
