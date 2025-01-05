@@ -13,7 +13,7 @@
 
 ---
 
-## Chart Analyses
+## Chart Analysis
 
 ### 1. Word Cloud of Highly Rated Products
 
