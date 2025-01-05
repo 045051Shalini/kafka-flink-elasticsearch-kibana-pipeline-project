@@ -1,12 +1,10 @@
 # Data Analysis of Shoes Sales and Customers Data
 
-## Objectives of the Dashboard
+## Dashboard
 
 ![Dashboard](https://github.com/user-attachments/assets/3926d8f8-388a-4d97-9a3c-e589cff2a057)
 
----
-
-
+## Objectives of the Dashboard
 1. **Identify Top-Performing Products**: Determine the highest-rated and most popular products to prioritize in sales and marketing strategies.
 2. **Analyze Customer Demographics**: Understand customer distribution by location to optimize regional marketing and supply chain strategies.
 3. **Evaluate Brand Performance**: Compare brand ratings and sales to assess brand equity and identify improvement areas.
